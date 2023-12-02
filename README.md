@@ -1,1 +1,1 @@
-This is a assignment of Bigdata subject at HCMUT. The presentation can be found at: https://www.youtube.com/watch?v=HDACmRp2o5w&t=98s
+This is an assignment of Bigdata subject at HCMUT. It focuses on mining data from Stackoverflow survey with nearby 100.000 programmers on over the world. Though it, we can understand the factors that can affect their salary. The presentation can be found at: https://www.youtube.com/watch?v=HDACmRp2o5w&t=98s
